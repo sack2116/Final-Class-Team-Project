@@ -16,16 +16,16 @@ This project is designed to utilize a pre-trained GPT2 model and analyze generat
 Below are the generated graphs from the analysis:
 
 ### 1. Top 10 Word Frequency
-![Word Frequency](Graphs/word_frequency.png)
+![Word Frequency](Graphs/T10%20Word%20Freq.png)
 
 ### 2. Rhyme Density Pie Chart
-![Rhyme Density](Graphs/rhyme_density_pie_chart.png)
+![Rhyme Density](Graphs/Rhyme%20Density.png)
 
 ### 3. Top 10 Rhyme Schemes by Percentage
-![Rhyme Schemes](Graphs/top_rhyme_schemes.png)
+![Rhyme Schemes](Graphs/T10%20Rhyme%20Scheme.png)
 
 ### 4. Multi-step Analysis Chart
-![Multi-step Analysis](Graphs/multi_step_analysis.png)
+![Multi-step Analysis]()
 
 ## Examples
 
