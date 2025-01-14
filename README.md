@@ -1,8 +1,8 @@
-# Lyrics Analysis Project
+# Music Lyrics Generator & Analysis Project
 
 ## Overview
 
-This project is designed to analyze generated song lyrics using various natural language processing techniques. The main functionalities include word frequency analysis, rhyme density calculation, rhyme scheme detection, and multi-step rhyme scheme analysis.
+This project is designed to utilize a pre-trained GPT2 model and analyze generated song lyrics using various natural language processing techniques. The main functionalities include word frequency analysis, rhyme density calculation, rhyme scheme detection, and multi-step rhyme scheme analysis. and most importantly Lyrics Geneation with a Gradio Interface.
 
 ## Features
 
@@ -74,7 +74,7 @@ Output: ![Alt text](Graphs/rhymes%20scheme.jpg)
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-repo/lyrics-analysis.git
+    git clone https://github.com/sack2116/Final-Class-Team-Project.git
     ```
 2. Navigate to the project directory:
     ```bash
@@ -89,7 +89,7 @@ Output: ![Alt text](Graphs/rhymes%20scheme.jpg)
 
 1. Start the Gradio interface:
     ```bash
-    python app.py
+    Run the botebook file
     ```
 2. Open the provided local link in your browser to interact with the application.
 
@@ -97,10 +97,3 @@ Output: ![Alt text](Graphs/rhymes%20scheme.jpg)
 
 This project is licensed under the MIT License.
 
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request.
-
-## Contact
-
-For any questions or suggestions, please reach out to [your-email@example.com].
