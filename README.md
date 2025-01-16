@@ -2,7 +2,8 @@
 
 ## Overview
 
-This project is designed to utilize a pre-trained GPT2 model and analyze generated song lyrics using various natural language processing techniques. The main functionalities include word frequency analysis, rhyme density calculation, rhyme scheme detection, and multi-step rhyme scheme analysis. and most importantly Lyrics Geneation with a Gradio Interface.
+This project is designed to utilize a pre-trained GPT2 model and analyze generated song lyrics using various natural language processing techniques. The main functionalities include word frequency analysis, rhyme density calculation, rhyme scheme detection, and multi-step rhyme scheme analysis. and most importantly Lyrics Generation with a Gradio Interface. Although it uses a trained GPT2 Model we used the following dataset to enhance the output:
+Dataset Source : Moura, Luan; Fontelles, Emanuel; Sampaio, Vinicius; França, Mardônio (2020), “Music Dataset: Lyrics and Metadata from 1950 to 2019”, Mendeley Data, V3, doi: 10.17632/3t9vbwxgr5.3
 
 ## Features
 
